@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+plotly
+geopandas
+pydeck
+folium
+earthengine-api
+sentinelhub
+requests
